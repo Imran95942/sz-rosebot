@@ -107,11 +107,11 @@ home_keyboard_pm = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(
                 text="🌐 My Website",
-                url=f"https://szrosebot.ml",
+                url=f"https://isIam07",
             ),
             InlineKeyboardButton(
                 text="🔰News Channel",
-                url=f"https://t.me/szroseupdates",
+                url=f"https://t.me/isIam07",
             )
         ],
     ]
